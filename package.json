@@ -1,0 +1,11 @@
+{
+	"name": "server",
+	"description": "test-server",
+	"dependencies": {
+		"body-parser": "latest",
+		"express": "latest"
+	},
+	"scripts": {
+		"start": "node app.js"
+	}
+}
